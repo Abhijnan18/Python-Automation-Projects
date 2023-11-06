@@ -20,6 +20,3 @@ else:
     print("First table extracted and exported to 'output_table.csv'.")
 
 
-
-
-
